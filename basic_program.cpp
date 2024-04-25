@@ -21,7 +21,7 @@ void primeNumber(){
 
   // loop to check if n is prime
   for (i = 2; i <= n/2; ++i) {
-    if (n % i == 0) {
+    if (n % i = 0) {
       is_prime = false;
       break;
     }
